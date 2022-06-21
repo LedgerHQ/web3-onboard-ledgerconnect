@@ -1,12 +1,13 @@
 # @ledgerhq/web3-onboard-ledgerconnect
 
-## Wallet module for connecting the Ledger Connect browser extension to web3-onboard
+This wallet module for web3-onboard allows you to connect your dapp to the Ledger Connect browser extension.
 
 ### Install
 
-TODO While it is not published to npm you'll need to clone the repository locally
-and use `yarn link`. Check the web3-onboard-ledgerconnect-demo repository for
-instructions.
+Add it to your dapp along with web3-onboard with
+
+    yarn add @web3-onboard/core
+    yarn add @ledgerhq/web3-onboard-ledgerconnect
 
 ### Usage
 
